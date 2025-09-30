@@ -38,7 +38,7 @@ A comprehensive Node.js/Express.js REST API backend for managing students, teach
 ## Installation
 
 1. **Clone the repository**:
-   
+   git@github.com:nayek04/school_backend.git
 
 3. **Install dependencies**:
 npm install
