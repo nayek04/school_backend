@@ -45,7 +45,7 @@ npm install
 
 4. **Set up environment variables**:
 Create a `.env` file in the root directory:
-MONGO_URI=mongodb+srv://nayekmalik2004_db_user:qawsedrf12345678@cluster1.6zutu7s.mongodb.net/collegeDB?retryWrites=true&w=majority&appName=Cluster1
+MONGO_URI=mongodb+srv://nayekmalik2004_db_user:password@cluster1.6zutu7s.mongodb.net/collegeDB?retryWrites=true&w=majority&appName=Cluster1
 PORT=3000
 NODE_ENV=development
 
